@@ -39,7 +39,7 @@ function App() {
             alt="ironhack-logo"
           ></img>
           <h2 className="container-titles">Declarative</h2>
-          <p className="container-paragraphs">React makes it painless to create inteactive UIS.</p>
+          <p className="container-paragraphs">React makes it painless to create interactive UIS.</p>
         </div>
         <div className="inside-4-containers">
           <img
@@ -48,7 +48,7 @@ function App() {
             alt="ironhack-logo"
           ></img>
           <h2 className="container-titles">Components</h2>
-          <p className="container-paragraphs">Build encapsulated componentes that manage state.</p>
+          <p className="container-paragraphs">Build encapsulated components that manage state.</p>
         </div>
         <div className="inside-4-containers">
           <img
@@ -57,7 +57,7 @@ function App() {
             alt="ironhack-logo"
           ></img>
           <h2 className="container-titles">Single-Way</h2>
-          <p className="container-paragraphs">A set of immutable values are to the components's.</p>
+          <p className="container-paragraphs">A set of immutable values are passed to the components.</p>
         </div>
         <div className="inside-4-containers">
           <img
@@ -66,7 +66,7 @@ function App() {
             alt="ironhack-logo"
           ></img>
           <h2 className="container-titles">JSX</h2>
-          <p className="container-paragraphs">Statucally-typed, desined to run on modern browsers.</p>
+          <p className="container-paragraphs">Statically-typed, desined to run on modern browsers.</p>
         </div>
       </div>
     </div>
